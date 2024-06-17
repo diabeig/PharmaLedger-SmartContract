@@ -1,4 +1,4 @@
-****PharmaLedger Smart Contract****
+****PharmaLedger****
 
 **Overview**
 
@@ -6,42 +6,42 @@ PharmaLedger is a blockchain-based solution designed to enhance transparency and
 
 **Features**
 
-NFT-based License Verification: Ensures that all parties involved in the manufacturing, transportation, and sale of pharmaceutical products are certified and compliant with regulatory standards.
+- NFT-based License Verification: Ensures that all parties involved in the manufacturing, transportation, and sale of pharmaceutical products are certified and compliant with regulatory standards.
 
-Automated Payments: Facilitates seamless and transparent financial transactions between manufacturers, transporters, distributors, and pharmacies.
+- Automated Payments: Facilitates seamless and transparent financial transactions between manufacturers, transporters, distributors, and pharmacies.
 
-Real-time Tracking: Tracks the movement of goods through the supply chain, providing stakeholders with up-to-date information on the location and status of their products.
+- Real-time Tracking: Tracks the movement of goods through the supply chain, providing stakeholders with up-to-date information on the location and status of their products.
 
 **Technology Stack**
 
-Solidity: Smart contract programming language.
+- **Solidity**: Smart contract programming language.
 
-Remix IDE: Web-based IDE for Ethereum development.
+- **Remix IDE**: Web-based IDE for Ethereum development.
 
-MetaMask: Ethereum wallet for interacting with the blockchain.
+- **MetaMask**: Ethereum wallet for interacting with the blockchain.
 
-Sepolia Testnet: Ethereum test network for deploying and testing contracts.
+- **Sepolia Testnet**: Ethereum test network for deploying and testing contracts.
 
 **Getting Started**
 
 Prerequisites
 
-Install MetaMask for your browser.
+1. Install MetaMask for your browser.
 
-Access to Remix IDE.
+2. Access to Remix IDE.
 
 **Setup**
 
-Open Remix IDE in your web browser.
+1. Open Remix IDE in your web browser.
 
-Connect Remix to your MetaMask wallet.
+2. Connect Remix to your MetaMask wallet.
 
-Set the MetaMask network to Sepolia Testnet.
+3. Set the MetaMask network to Sepolia Testnet.
 
 **Deployment**
 
-Load the smart contract in Remix IDE.
-
-Compile the contract using the Remix compiler.
-
-Deploy the contract from Remix by selecting the "Injected Web3" environment, which uses your MetaMask connection.
+1. Load the smart contract in Remix IDE.
+   
+3. Compile the contract using the Remix compiler.
+   
+5. Deploy the contract from Remix by selecting the "Injected Web3" environment, which uses your MetaMask connection.
