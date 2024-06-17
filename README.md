@@ -1,4 +1,4 @@
-****#PharmaLedger****
+# **PharmaLedger - Medicine Supply Chain Tracking**
 
 **Overview**
 
